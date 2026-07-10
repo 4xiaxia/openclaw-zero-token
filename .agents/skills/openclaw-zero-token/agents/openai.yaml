@@ -1,0 +1,6 @@
+interface:
+  display_name: "Openclaw Zero Token"
+  short_description: "Repo-specific patterns and workflows for openclaw-zero-token"
+  default_prompt: "Use the openclaw-zero-token repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
